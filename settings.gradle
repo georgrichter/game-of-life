@@ -8,4 +8,4 @@
  */
 
 rootProject.name = 'game-of-life'
- include('gameoflife-acceptance-tests', 'gameoflife-core')
+include('gameoflife-acceptance-tests', 'gameoflife-core')

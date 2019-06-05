@@ -60,4 +60,4 @@ repositories {
     mavenCentral()
 }
 
-println "Building ${name}"
+println "Building ${name} on server ${this.server}"
