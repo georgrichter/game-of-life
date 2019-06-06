@@ -60,4 +60,4 @@ repositories {
     mavenCentral()
 }
 
-println "Building ${name} on server " + System.getProperty('server')
+println "Building ${name} on server ${server}" 
